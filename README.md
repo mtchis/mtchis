@@ -9,7 +9,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mtchis&data=followers,repositories,stars,commits)](https://github.com/mtchis)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=abap,nodejs,nextjs,js,ts,java,php,python,html,css,c,cpp,csharp,xml,json,yaml,postgresql,mysql)](https://github.com/mtchis)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=sap,nodejs,nextjs,js,ts,java,php,python,html,css,c,cpp,csharp,xml,json,yaml,postgresql,mysql)](https://github.com/mtchis)
 
 
 # 📊 GitHub Languages Report
