@@ -10,14 +10,6 @@
 
 # 📊 GitHub Languages Report
 
-Hello! This is an automatically generated report of the programming languages used across my repositories (`mtchis`).
-
-## 🛠️ Main Languages
-- **Python** 🐍 – widely used for data analysis, automation scripts, and backend development.
-- **JavaScript** 🌐 – powering web applications and frontend projects.
-- **HTML/CSS** 🎨 – building and styling user interfaces.
-- **C++** ⚡ – applied in high-performance projects and algorithmic implementations.
-- **Shell Script** 💻 – managing environments and automating system tasks.
 
 ## 📈 Visual Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtchis&layout=compact&theme=radical)
