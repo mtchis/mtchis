@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: mtchi2019@gmail.com
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mtchis&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mtchis&data=followers,repositories,stars,commits)](https://github.com/mtchis)
 
 
 # 📊 GitHub Languages Report
