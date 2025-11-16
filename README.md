@@ -9,6 +9,8 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mtchis&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/mtchis)
 
+[![GitHub WidgetBox](https://github-readme-stats.vercel.app/api?username=Jurredr&count_private=true&show_icons=true&theme=omni)](https://github.com/mtchis)
+
 
 
 # 📊 GitHub Languages Report
