@@ -9,7 +9,7 @@
 
 <div align="center">
     <a href="https://mytruong-z.com/" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=mtchi&data=followers,repositories,stars,commits&theme=light" alt="mtchis's - GitHub Widgetbox" width="90%" height="0%">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=mtchis&data=followers,repositories,stars,commits&theme=light" alt="mtchis's - GitHub Widgetbox" width="90%" height="0%">
     </a>
 </div>
 
