@@ -7,3 +7,13 @@
 
 - 📫 How to reach me: mtchi2019@gmail.com
 
+
+# 📊 Báo cáo ngôn ngữ GitHub của tôi
+
+Dưới đây là thống kê ngôn ngữ được sử dụng trong các repository của tôi (`mtchis`):
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtchis&layout=compact&theme=radical)
+
+---
+
+📌 
