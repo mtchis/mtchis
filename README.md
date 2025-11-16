@@ -20,8 +20,4 @@ Hello! This is an automatically generated report of the programming languages us
 - **Shell Script** 💻 – managing environments and automating system tasks.
 
 ## 📈 Visual Statistics
-You can add dynamic badges or charts using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
-
-Example badge:
-```markdown
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtchis&layout=compact&theme=radical)
