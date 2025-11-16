@@ -7,6 +7,12 @@
 
 - 📫 How to reach me: mtchi2019@gmail.com
 
+<div align="center">
+    <a href="https://mytruong-z.com/" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=mytruong-z&data=followers,repositories,stars,commits&theme=light" alt="mytruong-z's - GitHub Widgetbox" width="90%" height="0%">
+    </a>
+</div>
+
 
 # 📊 GitHub Languages Report
 
