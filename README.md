@@ -10,5 +10,5 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mtchis&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/mtchis)
 
 <!-- [![GitHub WidgetBox](https://github-readme-stats.vercel.app/api?username=mtchis&count_private=true&show_icons=true&theme=omni)](https://github.com/mtchis) -->
-[![GitHub WidgetBox](https://github-readme-stats.vercel.app/api/top-langs/?username=Jurredr&layout=compact&theme=omni)](https://github.com/mtchis)
+<!-- [![GitHub WidgetBox](https://github-readme-stats.vercel.app/api/top-langs/?username=Jurredr&layout=compact&theme=omni)](https://github.com/mtchis) -->
 
